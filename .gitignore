@@ -1,0 +1,12 @@
+# Секретные настройки
+backend/.env
+
+# Зависимости Node.js
+node_modules/
+
+# Логи
+*.log
+
+# Системные файлы Windows
+Thumbs.db
+.DS_Store
